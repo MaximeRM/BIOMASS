@@ -21,7 +21,7 @@
 #' @param Dlim (optional) Minimum diameter (in cm) for which aboveground biomass should be calculated (all diameter below 
 #' \code{Dlim} will have a 0 value in the output).
 #' 
-#' @details See Rejou-Mechain et al. (in prep) for all details on the error propagation procedure.
+#' @details See Rejou-Mechain et al. (2017) for all details on the error propagation procedure.
 #' 
 #' @return Returns a list  with (if Carbon is FALSE): 
 #' \describe{
